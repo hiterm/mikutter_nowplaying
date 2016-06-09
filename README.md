@@ -1,0 +1,1 @@
+iTunesで再生中の曲をツイートするmikutterプラグイン（Mac用）
